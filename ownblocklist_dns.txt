@@ -4,6 +4,7 @@
 
 #gambling
 0.0.0.0 gbpclk.com
+0.0.0.0 77jackpot.com
 
 # mixed
 
