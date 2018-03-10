@@ -1,0 +1,11 @@
+# This is my first own block list containing
+# DNS names that still get through
+# now good luck nimajneb
+
+#gambling
+0.0.0.0 gbpclk.com
+0.0.0.0 77jackpot.com
+
+# mixed
+
+0.0.0.0 dcaavhah634s8.cloudfront.net
