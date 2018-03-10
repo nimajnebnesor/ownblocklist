@@ -1,6 +1,6 @@
 # This is my first own block list containing
 # DNS names that still get through
-# now good luck nimajneb
+# now good luck nimajneb hhhhhhääääääää
 
 #gambling
 0.0.0.0 gbpclk.com
