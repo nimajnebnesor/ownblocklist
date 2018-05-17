@@ -13,5 +13,4 @@
 0.0.0.0 mobile.sunmaker.com
 
 # mixed
-
 0.0.0.0 dcaavhah634s8.cloudfront.net
