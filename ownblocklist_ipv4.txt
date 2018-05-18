@@ -1,0 +1,8 @@
+# This is my first own block list for ipv4 adresses 
+# now good luck nimajneb
+
+
+142.0.197.108
+142.0.204.220
+64.58.113.244
+104.37.178.1

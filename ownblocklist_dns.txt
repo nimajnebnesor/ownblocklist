@@ -10,7 +10,9 @@
 0.0.0.0 gbpclk.com
 0.0.0.0 77jackpot.com
 0.0.0.0 sunmaker.com
-0.0.0.0 mobile.sunmaker.com
+#0.0.0.0 mobile.sunmaker.com
+0.0.0.0 acloudvideos.com
+0.0.0.0 acloudvideos.webaircdn.com
 
 # mixed
 0.0.0.0 dcaavhah634s8.cloudfront.net
