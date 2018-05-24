@@ -7,12 +7,16 @@
 # now good luck nimajneb
 
 #gambling
-0.0.0.0 gbpclk.com
-0.0.0.0 77jackpot.com
-0.0.0.0 sunmaker.com
-#0.0.0.0 mobile.sunmaker.com
-0.0.0.0 acloudvideos.com
-0.0.0.0 acloudvideos.webaircdn.com
+10.10.10.1 gbpclk.com
+10.10.10.1 77jackpot.com
+10.10.10.1 sunmaker.com
+10.10.10.1 mobile.sunmaker.com
+10.10.10.1 acloudvideos.com
+10.10.10.1 acloudvideos.webaircdn.com
+10.10.10.1 sunnyplayer.com
+10.10.10.1 platincasino.com
+10.10.10.1 stockpulse.io
 
 # mixed
-0.0.0.0 dcaavhah634s8.cloudfront.net
+10.10.10.1 dcaavhah634s8.cloudfront.net
+10.10.10.1 d682oe3oe0y60.cloudfront.net
