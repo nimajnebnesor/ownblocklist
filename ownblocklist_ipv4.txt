@@ -1,4 +1,4 @@
-# This is my first own block list for ipv4 adresses 
+# This is my first own block list for ipv4 adresses
 # now good luck nimajneb
 
 52.222.149.205 #cloudfront
@@ -9,3 +9,6 @@
 142.0.204.220
 64.58.113.244
 104.37.178.1
+78.46.248.133 #betano.de
+104.27.161.148
+104.27.160.148

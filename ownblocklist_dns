@@ -1,6 +1,6 @@
 # This is my first own block list containing
 # DNS names that still get through
-# now good luck nimajneb 
+# now good luck nimajneb
 # This is my first own block list containing
 # DNS names that still get through
 # now good luck nimajneb
@@ -12,17 +12,19 @@
 10.10.10.1 mobile.sunmaker.com
 10.10.10.1 acloudvideos.com
 10.10.10.1 acloudvideos.webaircdn.com
-10.10.10.1 cdn.acloudvideos.com 
+10.10.10.1 cdn.acloudvideos.com
 10.10.10.1 sunnyplayer.com
 10.10.10.1 platincasino.com
 10.10.10.1 stockpulse.io
 10.10.10.1 sunnyplayer.co
 10.10.10.1 amamaxa.comm
-
+10.10.10.1 de.betano.com
+10.10.10.1 betano.com
 
 #onlinegames
 10.10.10.1 starstable.com
 10.10.10.1 db2.opogame.com
+10.10.10.1 best2018games.com
 
 # mixed
 10.10.10.1 dephones.win
