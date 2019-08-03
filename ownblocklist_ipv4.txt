@@ -1,10 +1,6 @@
 # This is my first own block list for ipv4 adresses
 # now good luck nimajneb
 
-52.222.149.205 #cloudfront
-52.222.149.126 #cloudfront
-52.222.149.186 #cloudfront
-52.222.149.84 #cloudfront
 142.0.197.108
 142.0.204.220
 64.58.113.244
