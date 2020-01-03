@@ -1,7 +1,4 @@
-# This is my first own block list containing the combined intpu
-# of ipv6 adresses and ranges that come from these two lists
-# first https://www.myip.ms/files/blacklist/csf/latest_blacklist.txt
-# second https://www.spamhaus.org/drop/dropv6.txt
+# This is my first own block list
 # now good luck nimajneb
 # IPv6
 2a04:9dc0:c1:38::3
