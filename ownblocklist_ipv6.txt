@@ -1,9 +1,9 @@
 # This is my first own block list containing the combined intpu
-# of iv6 adresses and ranges that come from these two lists
+# of ipv6 adresses and ranges that come from these two lists
 # first https://www.myip.ms/files/blacklist/csf/latest_blacklist.txt
 # second https://www.spamhaus.org/drop/dropv6.txt
 # now good luck nimajneb
-
+# IPv6
 2a04:9dc0:c1:38::3
 2001:19f0:4400:44de:5400:ff:fe6b:4dae
 2605:e000:30cf:9700:fd9d:e89b:e97:236f
@@ -94,3 +94,17 @@
 2a06:2a00::/29
 2a0a:ed80::/29
 2a0a:ed80::/29
+2607:fea8:91c0:40a:8149:cf50:cf3:3838
+2001:8f8:1425:77ec:3850:3e8f:b004:9ce7
+2607:fea8:91c0:40a:8c10:feb9:7f9d:1044
+2607:fea8:91c0:40a:8c9e:28d7:766b:cb35
+2001:1c06:8c2:e300:61af:5b25:6137:e9a
+2607:fea8:91c0:40a:4cf2:a83c:6721:83a1
+2001:1c06:8c2:e300:101d:4ce3:886a:bdcd
+240e:3a0:1803:e079:d42d:7582:2179:e39e
+240e:3a0:9c08:4a42:6898:9101:2697:8b57
+2001:1c06:8c2:e300:b99a:d45d:5b9b:85f
+240e:3a0:1803:d610:ccf3:4d15:5419:9317
+240e:344:5400:8578:6c9d:24c0:a886:bd35
+240e:344:5400:8ee9:b8a1:3ad5:1c4e:b49e
+2a0a:7d80:8:c:29bd:d3d7:615a:ec1b
